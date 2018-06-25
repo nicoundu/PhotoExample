@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "301404802555",
+    "firebase_url": "https://photoexample-34e03.firebaseio.com",
+    "project_id": "photoexample-34e03",
+    "storage_bucket": "photoexample-34e03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301404802555:android:24856321cc280005",
+        "android_client_info": {
+          "package_name": "cl.pingon.photoexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301404802555-e86tgm74qeu665ojksiena2nso0ea9k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.pingon.photoexample",
+            "certificate_hash": "9f1066db5021e7ac6d130453e8d77d0968c3d6bc"
+          }
+        },
+        {
+          "client_id": "301404802555-nas8snesbatvroji3n06sj0i51qn0l5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxxqL4wR8s3sUBZzBGGmDZAMJjV5KygRg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301404802555-nas8snesbatvroji3n06sj0i51qn0l5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
